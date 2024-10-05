@@ -1,0 +1,23 @@
+.header {
+    background-color: #007bff;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+  }
+  .header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+  }
+  .header h2 {
+    margin: 0;
+    font-size: 1.5rem;
+  }
+  .header a {
+    color: white;
+    margin: 0 1rem;
+    text-decoration: none;
+  }
+  .header a:hover {
+    text-decoration: underline;
+  }
+  
